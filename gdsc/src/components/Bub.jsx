@@ -70,7 +70,7 @@ const Bub = () => {
       </style>
 
       <div className="container">
-        <div className="bubble-wrap translate-x-96">
+        <div className="bubble-wrap -translate-y-20 translate-x-75">
           {generateBubbles(100)} 
         </div>
       </div>

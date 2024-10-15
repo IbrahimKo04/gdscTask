@@ -20,7 +20,7 @@ export default {
         '800': '800% 800%', // Defining custom background size (800% 800%)
       },
       backgroundImage: {
-        'custom-gradient': 'linear-gradient(270deg, #f23d14, #14f21c, #148ef2, #f2c614)',
+        'custom-gradient': 'linear-gradient(270deg, #f23d14, #14f21c, #148ef2, #f2c614)', // Gradient colors
       },
     },
   },

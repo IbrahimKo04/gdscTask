@@ -19,7 +19,9 @@ function App() {
     </svg>
 </div>
 <Bub/>
+<div className='bg-red-600 w-full absolute block mt-96 h-80 '>
 <About/>
+</div>
     </>
   )
 }
